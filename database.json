@@ -9,10 +9,11 @@
     "name": "Hamdaoui wassim",
     "type": "Individual",
     "gender": "Male",
-    "nationality": "Tunisian"
+    "nationality": "Tunisian",
+    "passport_number": "45FG55IJ"
   },
   {
-    "id": 1,
+    "id": 2,
     "list_type": "OFAC",
     "country": "Tunisia",
     "birth_date": "2022-02-23",
@@ -21,10 +22,11 @@
     "name": "Hamdaoui wassim",
     "type": "Individual",
     "gender": "Male",
-    "nationality": "Tunisian"
+    "nationality": "Tunisian",
+    "passport_number": "45FG55IJ"
   },
   {
-    "id": 1,
+    "id": 3,
     "list_type": "OFAC",
     "country": "Tunisia",
     "birth_date": "2022-02-23",
@@ -33,6 +35,7 @@
     "name": "Hamdaoui wassim",
     "type": "Individual",
     "gender": "Male",
-    "nationality": "Tunisian"
+    "nationality": "Tunisian",
+    "passport_number": "45FG55IJ"
   }
 ]
