@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "list_type": "OFAC",
+    "country": "Tunisia",
+    "birth_date": "2022-02-23",
+    "location": "Monastir",
+    "case_id": "OFAC123",
+    "name": "Hamdaoui wassim",
+    "type": "Individual",
+    "gender": "Male",
+    "nationality": "Tunisian"
+  },
+  {
+    "id": 1,
+    "list_type": "OFAC",
+    "country": "Tunisia",
+    "birth_date": "2022-02-23",
+    "location": "Monastir",
+    "case_id": "OFAC123",
+    "name": "Hamdaoui wassim",
+    "type": "Individual",
+    "gender": "Male",
+    "nationality": "Tunisian"
+  },
+  {
+    "id": 1,
+    "list_type": "OFAC",
+    "country": "Tunisia",
+    "birth_date": "2022-02-23",
+    "location": "Monastir",
+    "case_id": "OFAC123",
+    "name": "Hamdaoui wassim",
+    "type": "Individual",
+    "gender": "Male",
+    "nationality": "Tunisian"
+  }
+]
