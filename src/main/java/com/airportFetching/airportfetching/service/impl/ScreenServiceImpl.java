@@ -40,7 +40,8 @@ public class ScreenServiceImpl implements ScreenService {
 
     @Override
     public List<Screen> findAll() {
-        return null;
+        List<Screen> screens = screenRepository.findAll();
+        return  screens;
     }
 
     @Override
